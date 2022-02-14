@@ -1,0 +1,6 @@
+C:\Users\051686\RiderProjects\A3StringInterpolation\A3StringInterpolation\bin\Debug\A3StringInterpolation.exe
+C:\Users\051686\RiderProjects\A3StringInterpolation\A3StringInterpolation\bin\Debug\A3StringInterpolation.pdb
+C:\Users\051686\RiderProjects\A3StringInterpolation\A3StringInterpolation\obj\Debug\A3StringInterpolation.csprojAssemblyReference.cache
+C:\Users\051686\RiderProjects\A3StringInterpolation\A3StringInterpolation\obj\Debug\A3StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\051686\RiderProjects\A3StringInterpolation\A3StringInterpolation\obj\Debug\A3StringInterpolation.exe
+C:\Users\051686\RiderProjects\A3StringInterpolation\A3StringInterpolation\obj\Debug\A3StringInterpolation.pdb
